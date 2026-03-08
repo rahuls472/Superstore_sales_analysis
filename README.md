@@ -14,11 +14,11 @@ The final result is an interactive **two-page Power BI dashboard** that provides
 
 ## Basic KPI Dashboard
 
-![Dashboard Page 1](images/dashboard_page1.png)
+![Dashboard Page 1](Dashboard1.png)
 
 ## Advanced Business Insights
 
-![Dashboard Page 2](images/dashboard_page2.png)
+![Dashboard Page 2](Dashboard2.png)
 
 ---
 
